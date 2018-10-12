@@ -1,0 +1,494 @@
+
+h1{position: ;
+   font-size: 100pt;
+   margin-left: 170px;
+   font-family: "gotham", sans-serif;
+   color: white;
+}
+#lyric_1{
+  position: static;
+  line-height: 30px;
+  margin-top: -60px;
+  margin-left: -150px;
+  width: 600px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_1-1{
+  position: static;
+  line-height: 30px;
+  margin-top: 60px;
+  margin-left: -150px;
+  width: 600px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_1-2{
+  position: static;
+  line-height: 30px;
+  margin-top: 60px;
+  margin-left: -150px;
+  width: 600px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  letter-spacing: 30px;
+  font-size: 40pt;
+}
+#lyric_1-3{
+  position: static;
+  line-height: 30px;
+  margin-top: 60px;
+  margin-left: 0px;
+  height: 325px;
+  width: 600px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 50pt;
+}
+#lyric_1-4{
+  position: static;
+  line-height: 30px;
+  margin-top: -230px;
+  margin-left: -150px;
+  height: 325px;
+  width: 600px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_1-5{
+  position: static;
+  line-height: 35px;
+  margin-top: 90px;
+  margin-left: 390px;
+  height: 325px;
+  width: 1000px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_1-6{
+  position: static;
+  line-height: 35px;
+  margin-top: -210px;
+  margin-left: 420px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_1-7{
+  position: static;
+  line-height: 35px;
+  margin-top: -210px;
+  margin-left: 120px;
+  height: 325px;
+  width: 1400px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 50pt;
+}
+#lyric_1-8{
+  position: static;
+  line-height: 35px;
+  margin-top: -210px;
+  margin-left: 100px;
+  height: 325px;
+  width: 1200px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 50pt;
+}
+#lyric_1-9{
+  position: static;
+  line-height: 130px;
+  margin-top: 120px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1300px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#lyric_1-10{
+  position: static;
+  line-height: 35px;
+  margin-top: 120px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1400px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 40pt;
+}
+#lyric_1-11{
+  position: static;
+  line-height: 130px;
+  margin-top: -40px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1400px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#lyric_1-12{
+  position: static;
+  line-height: 35px;
+  margin-top: -10px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1400px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#lyric_1-13{
+  position: static;
+  line-height: 130px;
+  margin-top: 100px;
+  margin-left: 330px;
+  height: 325px;
+  width: 1200px;
+  letter-spacing: -4px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_1-14{
+  position: static;
+  line-height: 150px;
+  margin-top: 50px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1000px;
+  letter-spacing: 10px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 40pt;
+}
+#chorus{
+  position: static;
+  line-height: 35px;
+  margin-top: 20px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1000px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: cornflowerblue;
+  font-size: 60pt;
+}
+#chorus-1{
+  position: static;
+  line-height: 35px;
+  margin-top: -150px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1000px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#chorus-2{
+  position: static;
+  line-height: 35px;
+  margin-top: -150px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1000px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: cornflowerblue;
+  font-size: 60pt;
+}
+#chorus-3{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#chorus-4{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1200px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: cornflowerblue;
+  font-size: 60pt;
+}
+#chorus-5{
+  position: static;
+  line-height: 35px;
+  margin-top: -110px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#chorus-6{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1200px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: cornflowerblue;
+  font-size: 60pt;
+}
+#chorus-7{
+  position: static;
+  line-height: 35px;
+  margin-top: 150px;
+  margin-left: 450px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 50pt;
+}
+#lyric_2{
+  position: static;
+  line-height: 35px;
+  margin-top: 10px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#lyric_2-1{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 30pt;
+}
+#lyric_2-2{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1000px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 30pt;
+}
+#lyric_2-3{
+  position: static;
+  line-height: 70px;
+  margin-top: -50px;
+  margin-left: 0px;
+  height: 325px;
+  width: 100px;
+  font-family: "gill sans"; sans-serif;
+  letter-spacing: 20px;
+  color: white;
+  font-size: 30pt;
+}
+#lyric_2-4{
+  position: static;
+  line-height: 35px;
+  margin-top: 150px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_2-5{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: 0px;
+  height: 325px;
+  width: 600px;
+  font-family: "gill sans"; sans-serif;
+  color: yellow;
+  font-size: 30pt;
+}
+#lyric_2-6{
+  position: static;
+  line-height: 35px;
+  margin-top: -140px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_2-7{
+  position: static;
+  line-height: 35px;
+  margin-top: -120px;
+  margin-left: 0px;
+  height: 325px;
+  width: 750px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 30pt;
+}
+#lyric_2-8{
+  position: static;
+  line-height: 100px;
+  margin-top: 100px;
+  margin-left: 300px;
+  height: 325px;
+  width: 1000px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 40pt;
+}
+#lyric_2-9{
+  position: static;
+  line-height: 100px;
+  margin-top: 300px;
+  margin-left: 0px;
+  height: 325px;
+  width: 750px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 40pt;
+}
+#chorus2{
+  position: static;
+  line-height: 35px;
+  margin-top: 50px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1000px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 60pt;
+}
+#chorus2-1{
+  position: static;
+  line-height: 35px;
+  margin-top: -200px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 20pt;
+}
+#chorus2-2{
+  position: static;
+  line-height: 35px;
+  margin-top: -100px;
+  margin-left: -150px;
+  height: 325px;
+  width: 1000px;
+  letter-spacing: 20px;
+  font-family: "gill sans"; sans-serif;
+  color: white;
+  font-size: 60pt;
+}
+#chorus2-3{
+position: static;
+line-height: 35px;
+margin-top: -170px;
+margin-left: 0px;
+height: 325px;
+width: 1200px;
+font-family: "gill sans"; sans-serif;
+color: black;
+font-size: 20pt;
+}
+#chorus2-4{
+position: static;
+line-height: 35px;
+margin-top: -60px;
+margin-left: -150px;
+height: 325px;
+width: 1200px;
+letter-spacing: 20px;
+font-family: "gill sans"; sans-serif;
+color: white;
+font-size: 60pt;
+}
+#chorus2-5{
+  position: static;
+  line-height: 35px;
+  margin-top: -150px;
+  margin-left: 0px;
+  height: 325px;
+  width: 1200px;
+  font-family: "gill sans"; sans-serif;
+  color: black;
+  font-size: 20pt;
+}
+#chorus2-6{
+  position: static;
+  line-height: 100px;
+  margin-top: 100px;
+  margin-left: 0px;
+  height: 325px;
+  width: 500px;
+  font-family: "gill sans"; sans-serif;
+  letter-spacing: 20px;
+  color: yellow;
+  font-size: 40pt;
+}
+
+.section {
+  background-image: url("black.jpg");
+  background-size: 1000px 1000px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding: 200px 50% 200px 200px ;
+}
+
+
+.section-1 {
+  background-image: url("images/img1.jpg");
+}
+
+.section-2 {
+  background-image: url("images/IMG_4803.jpg");
+}
+
+.section-3 {
+  background-image: url("images/IMG_6011.jpg");
+}
+
+.section-4 {
+  background-image: url("images/IMG_7682.jpg");
+}
+
+.section-5 {
+  background-image: url("images/IMG_8294.jpg");
+}
+
+.section-6 {
+  background-image: url("images/IMG_5517.jpg");
+}
